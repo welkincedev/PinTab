@@ -1,6 +1,6 @@
 # 🔖 PinTab – Save & Organize Links
 
-![PinTab Preview](ss/PinTab Main UI.png)  
+![PinTab Preview](ss/PinTabUI)  
 *A modern Chrome extension to save, organize, and search your favorite websites instantly.*
 
 ---
@@ -37,10 +37,10 @@ Perfect for **developers, students, and professionals** who want a clean, organi
 ## 📸 Screenshots
 
 1️⃣ **Main UI with folders**
-![Main UI](ss/PinTab Main UI.png)
+![Main UI](ss/PinTabUI.png)
 
 2️⃣ **Saving a new website**
-![Save Website](ss/pinned.png)
+![Save Website](ss/Pinned.png)
 
 
 > Replace the placeholders above with your actual screenshots or GIFs.
