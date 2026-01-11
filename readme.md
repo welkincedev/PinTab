@@ -48,25 +48,56 @@ Perfect for **developers, students, and professionals** who want a clean, organi
 
 ---
 
-## 💻 Installation / Usage
+💾 Download & Install (No GitHub Needed)
 
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/welkthedev/PinTab.git
-```
+You can use PinTab without GitHub by downloading the ZIP file:
 
-### 2️⃣ Load into Chrome
-1. Open `chrome://extensions/`  
-2. Enable **Developer mode** (top-right)  
-3. Click **Load unpacked**  
-4. Select the `PinTab` folder  
+1️⃣ Download the ZIP
 
-### 3️⃣ Start saving
-- Open any website  
-- Click the **PinTab icon** in your browser  
-- Enter a **folder name (optional)**  
-- Click ⭐ to save  
-- Use **search & folder filter** to find saved sites
+Download the latest version of PinTab:
+Download PinTab.zip
+
+(Replace this link with your hosted ZIP, e.g., Google Drive, Dropbox, or any file host.)
+
+2️⃣ Extract the ZIP
+
+Right-click the downloaded PinTab.zip → Extract Here or Extract to PinTab folder
+
+You should now have a folder like this:
+
+PinTab/
+├── manifest.json
+├── popup.html
+├── popup.css
+├── popup.js
+├── PinTab Main UI.png
+└── Pinned.png
+3️⃣ Load into Chrome
+
+Open Chrome and go to:
+chrome://extensions/
+
+Enable Developer Mode (top-right toggle)
+
+Click Load unpacked
+
+Select the extracted PinTab folder
+
+The PinTab icon will appear next to the address bar, ready to use ✅
+
+4️⃣ Start Saving Websites
+
+Open any website
+
+Click the PinTab icon
+
+Enter a folder name (optional)
+
+Click ⭐ to save
+
+Use search & folder filter to find saved sites 🔍
+
+Delete websites with 🗑️ if needed
 
 ---
 
