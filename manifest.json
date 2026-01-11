@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "PinTab – Save & Organize Links",
+  "version": "1.0.0",
+  "description": "Save websites instantly, organize into folders, and find them anytime.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["tabs", "storage"]
+}

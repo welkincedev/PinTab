@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>PinTab</title>
+  <link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+
+  <div class="container">
+    <h2>🔖 PinTab</h2>
+
+    <!-- Folder Input + Save -->
+    <div class="row">
+      <input id="folderInput" placeholder="Folder name (optional)" />
+      <button id="saveBtn" title="Save current website">⭐</button>
+    </div>
+
+    <!-- Filters -->
+    <div class="filters">
+      <select id="folderFilter" title="Filter by folder">
+        <option value="">📁 All</option>
+      </select>
+      <div class="search-box">
+        <span>🔍</span>
+        <input id="searchInput" placeholder="Search..." />
+      </div>
+    </div>
+
+    <!-- Website list -->
+    <ul id="websiteList"></ul>
+
+    <!-- Footer -->
+    <footer class="footer">
+      Built with ❤️ by 
+      <a href="https://github.com/welkthedev" target="_blank">welkthedev</a>
+    </footer>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
