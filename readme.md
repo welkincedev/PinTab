@@ -48,56 +48,46 @@ Perfect for **developers, students, and professionals** who want a clean, organi
 
 ---
 
-💾 Download & Install (No GitHub Needed)
+💾 **Download & Install (No GitHub Needed)**
 
 You can use PinTab without GitHub by downloading the ZIP file:
 
-1️⃣ Download the ZIP
+1️⃣ **Download the ZIP**
 
 Download the latest version of PinTab:
 Download PinTab.zip
 
 (Replace this link with your hosted ZIP, e.g., Google Drive, Dropbox, or any file host.)
 
-2️⃣ Extract the ZIP
+2️⃣ **Extract the ZIP**
 
 Right-click the downloaded PinTab.zip → Extract Here or Extract to PinTab folder
-
 You should now have a folder like this:
 
-PinTab/
+```PinTab/
 ├── manifest.json
 ├── popup.html
 ├── popup.css
 ├── popup.js
-├── PinTab Main UI.png
-└── Pinned.png
+└── ss/
+```
+
 3️⃣ Load into Chrome
 
-Open Chrome and go to:
-chrome://extensions/
+Open Chrome and go to: `chrome://extensions/`
+- Enable Developer Mode (top-right toggle)
+- Click Load unpacked
+- Select the extracted PinTab folder
+- The PinTab icon will appear next to the address bar, ready to use ✅
 
-Enable Developer Mode (top-right toggle)
+4️⃣ **Start Saving Websites**
 
-Click Load unpacked
-
-Select the extracted PinTab folder
-
-The PinTab icon will appear next to the address bar, ready to use ✅
-
-4️⃣ Start Saving Websites
-
-Open any website
-
-Click the PinTab icon
-
-Enter a folder name (optional)
-
-Click ⭐ to save
-
-Use search & folder filter to find saved sites 🔍
-
-Delete websites with 🗑️ if needed
+- Open any website
+- Click the PinTab icon
+- Enter a folder name (optional)
+- Click ⭐ to save
+- Use search & folder filter to find saved sites 🔍
+- Delete websites with 🗑️ if needed
 
 ---
 
